@@ -1,0 +1,166 @@
+.container1 {
+	position: relative;
+	margin-top: -3px;
+	width: 50px;
+	height: 50px;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	transition: background 0.5s ease;
+}
+
+.container1:hover .overlay {
+	display: block;
+}
+
+.container1:hover .title {
+	top: 90px;
+}
+
+.button {
+	position: absolute;
+	width: 160px;
+	margin-left: 5px;
+	margin-top: -10px;
+	text-align: center;
+	opacity: 0;
+	transition: opacity .35s ease;
+	cursor: pointer;
+	z-index: 1000;
+	border: solid 2px white;
+	padding: 12px 25px;
+	color: white;
+	height: 50px;
+}
+
+.container1:hover .button {
+	opacity: 1;
+}
+
+.custom:active {
+	color: white;
+}
+
+.block {
+	display: inline-block;
+}
+
+.badge-danger {
+	background-color: #d43f3a;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.glyphicon.glyphicon-globe {
+	font-size: 15px;
+}
+
+.glyphicon.glyphicon-user {
+	font-size: 15px;
+}
+
+.glyphicon.glyphicon-envelope {
+	font-size: 15px;
+}
+
+.glyphicon.glyphicon-lock {
+	font-size: 15px;
+}
+
+.navbar {
+	border: 0px;
+}
+
+#dp {
+	position: absolute;
+	margin-top: 16em;
+	margin-left: -3em;
+}
+
+
+.cover-div{
+	height: 300px; 
+	background-color: #dfe3e6; 
+	margin-top: -110px;
+}
+#cover-pic{
+	width: 335%;
+	height: 250px; 
+	margin-left: -13px;
+}
+#profile-pic{
+	border: 5px solid white; 
+	z-index: 1000; 
+	width: 341%; 
+	height: 341%; 
+	margin-top: -270%;
+	position: absolute;
+}
+
+#button-update{
+	float: right;
+	margin-top: 200px;
+}
+#upload-picC{
+	border: 1px solid black; 
+	float: left; 
+	margin-left: -50%; 
+	margin-top: 8%; 
+	background-color: Transparent;
+}
+ #name{
+	
+	     color: white; 
+     text-align: center; 
+     font-size: xx-large; 
+     font-family: Times New Roman; 
+     margin-top: 37%; 
+/*      margin-left: -60px;
+ */     position:absolute;
+} 
+#about-list{
+	margin-top: -2.12em; 
+	background-color: #ffffff; 
+	font-weight: bold; 
+	margin-left: -1.19%; 
+	width: 73%; 
+/* 	padding-right: 50px; 
+ */	color: #000000; 
+	margin-top: -4.2%;
+}
+#li-timeline{
+	font-weight: bold; 
+	border-right: 2px solid lightgrey; 
+	border-left: 2px solid lightgrey; 
+	margin-left: 200px;
+}
+#commentuserpic{
+	
+	width:20px;
+	height:20px;
+	
+}
+#li-about{
+	font-weight: bold; 
+	border-right: 2px solid lightgrey;
+}
+#li-friends{
+	font-weight: bold; 
+	border-right: 2px solid lightgrey;
+}
+#li-photos{
+	font-weight: bold; 
+	border-right: 2px solid lightgrey;
+}
+#li-more{
+	font-weight: bold; 
+	border-right: 2px solid lightgrey; 
+	border-right: 2px solid lightgrey;
+}

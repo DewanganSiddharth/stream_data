@@ -1,0 +1,130 @@
+.navbar-custom {
+    		background-color:#3B5998;
+    		color:#ffffff;
+    		border-radius:0;
+		}
+
+		.logo {
+  			display:block;
+ 			padding:3px;
+  			background-color:#fff;
+  			color:#3B5998;
+  			height:28px;
+  			width:28px;
+  			margin:9px;
+  			margin-right:2px;
+  			margin-left:10px;
+  			font-size:45px;
+  			font-weight:500;
+  			text-align:center; 
+  			text-decoration:none;
+  			text-shadow:0 0 1px;
+  			border-radius:0px;
+		}
+
+		.jitesh:link , .jitesh:visited , .jitesh:hover {
+    		color: white;
+   			padding: 10px 10px;
+    		text-align: center;
+    		text-decoration: none;
+    		display: inline-block;
+    		margin-left: 100px;
+		}
+
+		.home:link , .home:visited , .home:hover {
+    		color: white;
+   			padding: 10px 10px;
+    		text-align: center;
+    		text-decoration: none;
+    		display: inline-block;
+		}
+
+		.friend , .friend:link , .friend:visited , .friend:hover {
+    		
+   			padding: 10px 10px;
+    		text-align: center;
+    		text-decoration: none;
+    		display: inline-block;
+		}
+
+		.col-md-2{
+			background-color: #f7f7f7;
+			margin-top: -20px;
+		}
+
+		.btn-group{
+			margin-left: 20px;
+		}
+
+		.btn-default , .btn-default:link , .btn-default:visited , .btn-default:hover {
+			background-color:#3B5998;
+			border:0px solid transparent;
+			
+		}
+
+		body{
+			background-color: #f7f7f7;
+		}
+
+		.chat-popup {
+  			width: 300px;
+  			position: absolute;
+  			bottom: 0px;
+  			right: 20px;
+		}
+
+		#sidebar{
+			margin-left: 20px;
+			height: 42px;
+			font-size: 13px;
+
+		}
+
+		.fb-trending ul.nav a {
+  			padding-left: 5px;
+  			padding-right: 5px;
+  			padding-top: 2px;
+  			padding-bottom: 2px;
+		}
+
+		.fb-trending > .row:first-child {
+  			border-top: 1px solid lightgrey;
+  			border-bottom: 1px solid lightgrey;
+  			padding-top: 5px;
+  			padding-bottom: 5px;
+  			margin-top: 5px;
+  			margin-bottom: 5px;
+		}
+
+		.fb-trending {
+  			border-bottom: 1px solid lightgrey;
+		}
+
+		.box{
+			position: relative;
+			margin-top: -40px;
+  			margin-bottom: 0px;
+  			padding-top:5px;
+  			border-radius:3px;
+    		}
+
+    	.box:hover{
+  			background: #f6f7f9;
+  			cursor: pointer;
+    	}
+		.right-sidebar{
+			margin-top: -40px;
+		}
+
+		.middle-content{
+			margin-top: -40px;
+			position: relative;
+		}
+		.green{
+			color: green;
+		}
+		.feeling{
+			margin-left:10px;
+			height: 30px; 
+			background-color: #f7f7f7;
+		}

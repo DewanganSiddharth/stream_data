@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1423651443005
+Build-Jdk: 1.8.0
+Built-By: jerseyrobot
+Bundle-Description: Jersey JSON entity providers support module based on
+  EclipseLink MOXy.
+Bundle-DocURL: http://www.oracle.com/
+Bundle-License: http://glassfish.java.net/public/CDDL+GPL_1_1.html
+Bundle-ManifestVersion: 2
+Bundle-Name: jersey-media-moxy
+Bundle-SymbolicName: org.glassfish.jersey.media.jersey-media-moxy
+Bundle-Vendor: Oracle Corporation
+Bundle-Version: 2.16.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.glassfish.jersey.moxy.internal;uses:="org.glassfish.
+ hk2.api,org.glassfish.hk2.utilities.binding,javax.inject,javax.ws.rs.co
+ re,jersey.repackaged.com.google.common.collect,org.glassfish.jersey.mes
+ sage.filtering.spi,org.eclipse.persistence.jaxb,javax.xml.bind";version
+ ="2.16.0",org.glassfish.jersey.moxy.json.internal;uses:="jersey.repacka
+ ged.com.google.common.collect,javax.ws.rs.ext,javax.ws.rs.core,org.ecli
+ pse.persistence.jaxb.rs,org.eclipse.persistence.internal.core.helper,or
+ g.eclipse.persistence.jaxb,org.glassfish.jersey.moxy.json,org.glassfish
+ .jersey.internal.util,javax.xml.bind,javax.inject,org.glassfish.jersey.
+ message.filtering.spi,javax.annotation,org.glassfish.jersey.internal.sp
+ i";version="2.16.0",org.glassfish.jersey.moxy.xml;uses:="javax.ws.rs.ex
+ t,org.eclipse.persistence.jaxb,javax.xml.bind,javax.ws.rs.core";version
+ ="2.16.0",org.glassfish.jersey.moxy.json;uses:="javax.ws.rs.ext,jersey.
+ repackaged.com.google.common.collect,org.eclipse.persistence.jaxb,org.e
+ clipse.persistence.oxm,javax.xml.bind,org.glassfish.jersey.moxy.interna
+ l,org.glassfish.jersey.moxy.json.internal,javax.ws.rs,org.glassfish.jer
+ sey,org.glassfish.jersey.message.filtering,javax.ws.rs.core,org.glassfi
+ sh.jersey.internal,org.glassfish.jersey.internal.util";version="2.16.0"
+Import-Package: javax.annotation;version="[1.2,2)",javax.inject;version=
+ "[1.0,2)",javax.ws.rs;version="[2.0,3)",javax.ws.rs.core;version="[2.0,
+ 3)",javax.ws.rs.ext;version="[2.0,3)",javax.xml.bind,jersey.repackaged.
+ com.google.common.collect;version="[2.16,3)",org.eclipse.persistence.in
+ ternal.core.helper;version="[2.5,3)",org.eclipse.persistence.jaxb;versi
+ on="[2.5,3)",org.eclipse.persistence.jaxb.rs;version="[2.5,3)",org.ecli
+ pse.persistence.oxm;version="[2.5,3)",org.glassfish.hk2.api;version="[2
+ .4,3)",org.glassfish.hk2.utilities.binding;version="[2.4,3)",org.glassf
+ ish.jersey;version="[2.16,3)",org.glassfish.jersey.internal;version="[2
+ .16,3)",org.glassfish.jersey.internal.spi;version="[2.16,3)",org.glassf
+ ish.jersey.internal.util;version="[2.16,3)",org.glassfish.jersey.messag
+ e.filtering;version="[2.16,3)",org.glassfish.jersey.message.filtering.s
+ pi;version="[2.16,3)"
+Tool: Bnd-1.50.0

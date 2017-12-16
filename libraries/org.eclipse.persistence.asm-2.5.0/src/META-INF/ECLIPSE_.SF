@@ -1,0 +1,668 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5axINRfcJw25bxinE1IAijSFBvY=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: R9bHqH82b+UK4obhyzr91Y9YQWY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationValueEnumRule.class
+SHA1-Digest: Tom0+ZuZrHlicsA1z88XSA2ijdA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Tra
+ nsformerHandlerFactory.class
+SHA1-Digest: x9+Ap7nqiGaBthor4VSwExNUa04=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$Opcode.class
+SHA1-Digest: xbdB8NC9bhsjpqveBIMpZ6AZzMY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/TryCatchB
+ lockSorter.class
+SHA1-Digest: GCnsRzvLptIuKVzYOjvm9ZEN2+s=
+
+Name: org/eclipse/persistence/internal/libraries/asm/signature/package
+ .html
+SHA1-Digest: M3OHXQZ1ttKs1DVSCU3rypGKi7I=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/LabelNode.cl
+ ass
+SHA1-Digest: A092DBecfM0oJB3M1tXlcJe/eS8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Sub
+ routine.class
+SHA1-Digest: WdqQFLFz6Z+/C63tl990tpBktbM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Instructi
+ onAdapter.class
+SHA1-Digest: qiCVggQPoi5/zzkms6IZdve84hI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Method.cl
+ ass
+SHA1-Digest: 4ciNioTKN4rKIw0+uhsUaB0WfWU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceFieldVi
+ sitor.class
+SHA1-Digest: k1p7ahDeLhUmxRmSZh8II1Wt8s8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/package.h
+ tml
+SHA1-Digest: FH05uM2oMBsq4DhIea4Q8l8m3yo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/MethodWriter.clas
+ s
+SHA1-Digest: g2Mq+HDcOqTy0oGOnJvBjIxeXSg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$SAX
+ WriterFactory.class
+SHA1-Digest: eEPfIK8XzPo1g8jtzLnwsZzgm+8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Type.class
+SHA1-Digest: eYi5aWsEbiTmRIuWjVOriWy1QAI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapper.
+ class
+SHA1-Digest: Ms7nXYc6gFTjoiK10ZZx1thHMdY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/LdcInsnNode.
+ class
+SHA1-Digest: 3i/oDgd/seJ7d5kDN/3FdZlWKZQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/InsnList.cla
+ ss
+SHA1-Digest: nECVaYIOiZMMFnKZ7BuptuKXYUU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/AdviceAda
+ pter.class
+SHA1-Digest: ax3FXvDJdhY3EP8+aW3ws2OHQjg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/IntInsnNode.
+ class
+SHA1-Digest: 597/C5jTmyE75xCQQeqy1Ago5no=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$SAX
+ Writer.class
+SHA1-Digest: y7PEyZP+2SgbDHujWUbeSIAH3Xs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Bas
+ icValue.class
+SHA1-Digest: 9lv+spsPCi76nIHuz5KOk9nUgGs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$InterfacesRule.class
+SHA1-Digest: dBd3X1uMj+IW1sqtx0IWeb737G8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$SourceRule.class
+SHA1-Digest: vuNW5z91UH8J2QQbNapywwWhcFA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/pac
+ kage.html
+SHA1-Digest: t2UY4PI8bJRCar2lXS03qeS8gEM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/JSRInline
+ rAdapter$Instantiation.class
+SHA1-Digest: aVz70BfvQSWRK5hv45Max0/0cqU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/AnalyzerA
+ dapter.class
+SHA1-Digest: Y3c7BqB+JreGOiB2dNQs9LwIG3w=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckFieldAd
+ apter.class
+SHA1-Digest: Gkd4Yo3rHYcc8hI3Oev7lhFxhO8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckSignatu
+ reAdapter.class
+SHA1-Digest: YqUy5xbt6Wp1TrSt+c5beMJjORQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Opcodes.class
+SHA1-Digest: Wp32uIc1kZHVFw8C6K0xYF2nMh8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Item.class
+SHA1-Digest: mRpNJq8v/vkaQvPHGyT21gvhoYs=
+
+Name: license.html
+SHA1-Digest: AVnETfICBddF58V0eXntFL+wC+g=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapping
+ ClassAdapter.class
+SHA1-Digest: zM7rlCML/uJ3bIrfwlLZc4MYlTA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$TableSwitchRule.class
+SHA1-Digest: UsvVCwHlJ0ysDtNuqasWOoZnT20=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/FrameNode.cl
+ ass
+SHA1-Digest: 58KOieXsu8X5887YhPHlVst4mJ0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$OpcodesRule.class
+SHA1-Digest: AUPWYE6amYqn9MfUT238KuWUMa0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Sub
+ documentHandlerFactory.class
+SHA1-Digest: 4JFFDsiflYifJ1cXBKserGBEuAE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckMethodA
+ dapter.class
+SHA1-Digest: q6L0xenLlmlGNtb4L39oGWTqfzo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/signature/Signatu
+ reWriter.class
+SHA1-Digest: f5IoI2jo4EeWRKAZlFwNOYWyaAU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/AbstractInsn
+ Node.class
+SHA1-Digest: bHwtUBcyJ2XaZSD8kUeU5cMYIjw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationValueArrayRule.class
+SHA1-Digest: 2TuNtm+VFEJxHN5aqtRrL5NazuA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$RuleSet.class
+SHA1-Digest: ai/yGaxZOaRUfiUnRH6aa01QOGM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$LocalVarRule.class
+SHA1-Digest: Cy54Dzx/Lz/6J3xU5LBaFT2tMas=
+
+Name: org/eclipse/persistence/internal/libraries/asm/package.html
+SHA1-Digest: RMvoVQwIk288kr5n1TIWFq5I1yA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Sou
+ rceInterpreter.class
+SHA1-Digest: pWb+6bN0kMK0jI0T354TFVk2vjg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapping
+ AnnotationAdapter.class
+SHA1-Digest: Lf8jZxy2VT3ipY13D6Yg6C7vOOQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$TryCatchRule.class
+SHA1-Digest: oXfe8mbM+QJGQmlcAiGdLmfBA20=
+
+Name: org/eclipse/persistence/internal/libraries/asm/AnnotationVisitor
+ .class
+SHA1-Digest: lUxb/GsGgoeiSS4ighpoMQOf8YM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$LabelRule.class
+SHA1-Digest: TByrRI06UiHH09Ne4OQKPJEv09s=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceClassVi
+ sitor.class
+SHA1-Digest: J+PXXLSyNdyrHcQk9aRqRh2Vkzk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/JumpInsnNode
+ .class
+SHA1-Digest: M905YF42vV3HnLKPAtTftKCQe2c=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$ExceptionsRule.class
+SHA1-Digest: n8lFWNdM+VeiN3Cxkb/cLpVmLYU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/SAXFieldAdapt
+ er.class
+SHA1-Digest: nRW70yz3TFjwH6P9iCeMKr/cA3c=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/LocalVariabl
+ eNode.class
+SHA1-Digest: 4WWiuKV9pCl1kqYcOe20pbRNkpY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/VarInsnNode.
+ class
+SHA1-Digest: QJrDlAaOgUqxVk/lY1mT/03hwg0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/ClassWriter.class
+SHA1-Digest: xxgU//AQ/zuULGunpTyFx+DpDv4=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Fra
+ me.class
+SHA1-Digest: RBZJ6gF13sdIkGiIoN6DleflJhQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapping
+ MethodAdapter.class
+SHA1-Digest: H7+fOBaE7x/t1XToMlEo3vk8aH0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/MethodVisitor.cla
+ ss
+SHA1-Digest: 2Ud2sxeAtNRXbWk3L+rmGzS9/ng=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/MemberNode.c
+ lass
+SHA1-Digest: a7vALN8EZuKJDvoYf9dyBJya96s=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/TypeInsnNode
+ .class
+SHA1-Digest: QQEE1ZJeDp21Ol54HWt3PL6jdeU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/SAXAdapter.cl
+ ass
+SHA1-Digest: GeJX+7MX9nOUZbscTtoZgm4vWl4=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Edge.class
+SHA1-Digest: gpyq0nBu7dRsPjeaixlXNRvapa8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Val
+ ue.class
+SHA1-Digest: V/oRz3x7tuKtyGlMiL0yNz1qWp8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/LineNumberNo
+ de.class
+SHA1-Digest: 8r+bfM5wbk8mYWRPJLBDd5G5c6Y=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/StaticIni
+ tMerger.class
+SHA1-Digest: wtDR8T6KTgWYpvW7znWqsJU6KpM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$FrameTypeRule.class
+SHA1-Digest: 80Ka6DJ00BqwB5XF69bXisw/ATM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifierAbst
+ ractVisitor.class
+SHA1-Digest: 4ESFj5nBmTTLRaiCGzafSsYMFKw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceAbstrac
+ tVisitor.class
+SHA1-Digest: lnhEg3u2E/HUxRG2zYeyiFGM6Ps=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Pro
+ tectedInputStream.class
+SHA1-Digest: jvoSTR/ilsD/QWrvUKNkOTREApE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Ana
+ lyzer.class
+SHA1-Digest: FeTWLMLUI3hlNI8Rk/+nR9qLN8s=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$LineNumberRule.class
+SHA1-Digest: j0GzTOckuEMtHQEqWgqbKX1ktD0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$ExceptionRule.class
+SHA1-Digest: 2RF+HKrEDqk2UgmKG8kUOmIj8L0=
+
+Name: about.html
+SHA1-Digest: yN9E4fBSi8rL8a5/SGYWXRD6sWA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$Rule.class
+SHA1-Digest: ZhMTPBQGIgxN909Nd2NlT7nD+no=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationDefaultRule.class
+SHA1-Digest: sDxCkutR//eVdvTbf4impN3VbwE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$MethodRule.class
+SHA1-Digest: hD7KzUIfdEoEy8IxYpngJ9fMOd8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/SimpleRem
+ apper.class
+SHA1-Digest: 9fJdimE6g+/aBAA5zXdayo4WQ00=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifierFiel
+ dVisitor.class
+SHA1-Digest: 9b9Wx9Bu5QX7gBITzsV1gsscpeI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/LookupSwitch
+ InsnNode.class
+SHA1-Digest: TlIZ/dbZnt1oeypA3BkGzTURuDI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckClassAd
+ apter.class
+SHA1-Digest: xfEjlXoek88XShcrgJ56g1/G9Kg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/FieldVisitor.clas
+ s
+SHA1-Digest: XZ5hZF/nTYVMLlCHt2ZU6Sb5jxc=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/TableSwit
+ chGenerator.class
+SHA1-Digest: bpWB6T1lGBhJM0ks+pQST0sN70w=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapping
+ SignatureAdapter.class
+SHA1-Digest: BaXIk5qhIDHmjEpUH/WNjvCOoHA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Frame.class
+SHA1-Digest: lLJqN/DqhqVSNZmdH8Ma6XrIvSo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/MethodAdapter.cla
+ ss
+SHA1-Digest: HHCzKAEiw4E2MdZGR3w8JrCiqKs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$TableSwitchLabelRule.class
+SHA1-Digest: KszxVA1tFyT4kTPcv1zqFIUOwOw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$MaxRule.class
+SHA1-Digest: A89LO9Ixpm9hzj+TPAYmCIY8QXU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/TryCatchBloc
+ kNode.class
+SHA1-Digest: 8k/R8279FGM/kbTCFyobEkyywvM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/InsnList$Ins
+ nListIterator.class
+SHA1-Digest: lTf+Mz7YFdqYdRbguyuu/Y5hywE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/InsnNode.cla
+ ss
+SHA1-Digest: FS0+NSw+R3QaXdDdExZ1MsOLhyQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Sou
+ rceValue.class
+SHA1-Digest: j56K1fLOWgv3LBZ0AesHo3L60rg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifierMeth
+ odVisitor.class
+SHA1-Digest: bkPwffadPrVbZyRGzLOnRyYNA34=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/InnerClassNo
+ de.class
+SHA1-Digest: A3+du76NL4ZjhigExBiR2VH30Fw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$FrameRule.class
+SHA1-Digest: RcgE7xSAuPFyctc05C0KnzeBUc0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$ASM
+ ContentHandlerFactory.class
+SHA1-Digest: PnUk6lkCdhIdW2xtnRtaUqU4G08=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/EmptyVisi
+ tor.class
+SHA1-Digest: eugoqPWIlNUXCL5iXg5nq6TejY8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/ClassNode.cl
+ ass
+SHA1-Digest: 2E5mIYu4RI5eRo6D9JTRBSWqhmM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/FieldNode.cl
+ ass
+SHA1-Digest: KJ6YDtlE2DPWO82uWvouDpMuHxk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckMethodA
+ dapter$1.class
+SHA1-Digest: Ny+SCFJo/v3qthCk8Q7bAY5A+Uo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceSignatu
+ reVisitor.class
+SHA1-Digest: 8sRxtR7YyF/jEfRX80dEuVrVjVA=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$InnerClassRule.class
+SHA1-Digest: MgsHUedglwJIYohAaORAvX1btig=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$OpcodeGroup.class
+SHA1-Digest: 8+7mGZ8Y/MLJxsgaYfo4O9+5/Go=
+
+Name: org/eclipse/persistence/internal/libraries/asm/signature/Signatu
+ reReader.class
+SHA1-Digest: +oOfoGFLstCgtT0pMYeIK1xmpQo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/TableSwitchI
+ nsnNode.class
+SHA1-Digest: ecBIwJNr6g25OuST50wv4MMf87E=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Sin
+ gleDocElement.class
+SHA1-Digest: FXpmVJzQpHglaGERxGO2NauSZk0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/SAXClassAdapt
+ er.class
+SHA1-Digest: ddWJWTl5fs3eo00yeKRgQ4ObaEE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/asm-xml.dtd
+SHA1-Digest: cygFXi5AL4T5enr6Y3B0QTzZQow=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationValueRule.class
+SHA1-Digest: l7iX2LW+9fZpgLKhj23QfUG32ls=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$LookupSwitchLabelRule.class
+SHA1-Digest: XTjh4f4rRbgJv/3vtFObQb0GoVA=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/JSRInline
+ rAdapter.class
+SHA1-Digest: KIsU8VquoGpf2vmXaaP+g5A8fok=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/CodeSizeE
+ valuator.class
+SHA1-Digest: yCs1OdICiOG7wJmEpdXvm67JrME=
+
+Name: org/eclipse/persistence/internal/libraries/asm/ClassReader.class
+SHA1-Digest: JxY+Y5ZWCfY2j2seumCMe6w3NfQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/SerialVer
+ sionUIDAdder.class
+SHA1-Digest: EwioutZyZH2vM80K569riIYjsUs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Sim
+ pleVerifier.class
+SHA1-Digest: qL6ofdWyvhJuzuARZRpL5JVl7Ek=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Bas
+ icInterpreter.class
+SHA1-Digest: 3bz01cvHYTc4BxO/j1CckxU78l8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/SAXAnnotation
+ Adapter.class
+SHA1-Digest: neOknurGj3D7iioYpwuelL9JUac=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifierClas
+ sVisitor.class
+SHA1-Digest: BNf4rIgrdlmH832Zkf5XSaCAokk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/AnnotationNo
+ de.class
+SHA1-Digest: 13sL34HohUAClAUYz611F97VZD0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/Traceable.cl
+ ass
+SHA1-Digest: 3qAGliT1sLGrvMn5J/OtY4+S8TM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/CheckAnnotat
+ ionAdapter.class
+SHA1-Digest: jD/gxIs/SPaKIMp4yKKXgAZkPY8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Ent
+ ryElement.class
+SHA1-Digest: 8Qo7ML7lxSSLlC6kHtDmVDjVbKw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Ana
+ lyzerException.class
+SHA1-Digest: odbgdqXxcGQCw+EP7SN+hvjPmUc=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceAnnotat
+ ionVisitor.class
+SHA1-Digest: Sfnq/7vYetwzhFeG2lcXafmbxTg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/IincInsnNode
+ .class
+SHA1-Digest: 43I5+dXJNA+O5+zZU3NJctUNHlY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/ClassVisitor.clas
+ s
+SHA1-Digest: YDDU750CBP4P3XxMIG7h++lbAqY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationRule.class
+SHA1-Digest: uUwYmFwxMqBglBgSRv+IbVWTfoM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/SerialVer
+ sionUIDAdder$Item.class
+SHA1-Digest: 78BTqDKuH83RBgXtvHQw7TmQTiQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/AbstractVisi
+ tor.class
+SHA1-Digest: As9EnaZE4dgMAYRT/S6zYeDKUAY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/package.html
+SHA1-Digest: Mq4i1safE4cQCvKB6I/49sg7e5o=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/MultiANewArr
+ ayInsnNode.class
+SHA1-Digest: yUGo5WO5zKKFheThdx35VwAXSqI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/MethodInsnNo
+ de.class
+SHA1-Digest: MWeaXRnP4vOZz8hXL3ArRUHIUrs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Label.class
+SHA1-Digest: 5K6xFJcdgH/QTaZ9pRC+dJDUIKw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler.class
+SHA1-Digest: xm7dGwd8SxEpw7dzdvADzi8Us/k=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/TraceMethodV
+ isitor.class
+SHA1-Digest: H5TmPPFd9D7zjRVAyR//D6llvyw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/package.html
+SHA1-Digest: B160i7o5oEGDbQHHimyZz16eaP4=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$OuterClassRule.class
+SHA1-Digest: +Rz8piYZS0SoFh9e2Lud4IOzHWw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Inp
+ utSlicingHandler.class
+SHA1-Digest: v93ttNMBXgK+Xud4VTte+neyoN0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/ByteVector.class
+SHA1-Digest: XYvZ23rv8Q8aZSFz2ivV/BT3t84=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/TryCatchB
+ lockSorter$1.class
+SHA1-Digest: uZa5mG3GrrbjvXOyyku9URQeCPQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Zip
+ EntryElement.class
+SHA1-Digest: a5x3GPGOqtT8bUghRulxypoFZlk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Bas
+ icVerifier.class
+SHA1-Digest: XI6IvsswHRY8dzFiZEhN6tGYwoE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/JSRInline
+ rAdapter$Subroutine.class
+SHA1-Digest: X2KLveGImBCukyqK8jXoASrUCFw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$ClassRule.class
+SHA1-Digest: K2Hsak+4P4MIolj44qwybLqt6ac=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$InterfaceRule.class
+SHA1-Digest: lFnrsZsGTZZTe8Jx9vB9ZvO/zdM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationParameterRule.class
+SHA1-Digest: 4/LcKVyx9+pVEZqc9WYMSB0yhxY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$FieldRule.class
+SHA1-Digest: S/U35eExDPttbSn42rNDsWgiHNs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/ClassAdapter.clas
+ s
+SHA1-Digest: 9dXV/vjWcLA+j59qBtKwCTLpJUQ=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Handler.class
+SHA1-Digest: J8OY4ChY+6RiLD6Che0ny9ZzZHM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$LookupSwitchRule.class
+SHA1-Digest: 09zXKph7ALRNIuHI0/tjGWMsLQs=
+
+Name: org/eclipse/persistence/internal/libraries/asm/FieldWriter.class
+SHA1-Digest: ffGN/FjN/UOGUHLxpoK1PKtjC5Q=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Sma
+ llSet.class
+SHA1-Digest: JY2Cgk/FJgvcfaYDd4QKy6roFcM=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Con
+ tentHandlerFactory.class
+SHA1-Digest: /+QW+XW6myTn8FScFKngJxqLZJ4=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/LocalVari
+ ablesSorter.class
+SHA1-Digest: QFZQ3xEPzBFxe3JPD8LZ4yyj8e8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/MethodNode.c
+ lass
+SHA1-Digest: 5ng+AO4knbKTXGh8UP7nbV7+UyE=
+
+Name: org/eclipse/persistence/internal/libraries/asm/AnnotationWriter.
+ class
+SHA1-Digest: vqy9ihkJF/eWaAYdRkvfRAWjAqI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Generator
+ Adapter.class
+SHA1-Digest: 74EaCLGxYhh5teExpuuztw64of4=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/package.html
+SHA1-Digest: aEaI2QvHyx9yUWWp58WiyyQFuZk=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifiable.c
+ lass
+SHA1-Digest: JrCFPkJsyWpUYJCnyF3YNjxS/q8=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/analysis/Int
+ erpreter.class
+SHA1-Digest: OlueQiOglW1SkorooSjtI+WETQw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor$Out
+ putSlicingHandler.class
+SHA1-Digest: UPFS1vr0kbCA9VeViJ1WcTyLegk=
+
+Name: readme.html
+SHA1-Digest: ZqaldPrHwAzr/k8ZuxfPuYaDfRo=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/Processor.cla
+ ss
+SHA1-Digest: JHaT28UIpfdHgZoxvmQHfbgRKeI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/Attribute.class
+SHA1-Digest: wDCP6Aeiq81zlyEPDr1kc5dY8pY=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/FieldInsnNod
+ e.class
+SHA1-Digest: nUZ0zxy7+9+5Fxi/tZYBxX5wXp0=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/ASMContentHan
+ dler$AnnotationValueAnnotationRule.class
+SHA1-Digest: a7R37XnbZJSMk9cn7vw60eH7wdI=
+
+Name: org/eclipse/persistence/internal/libraries/asm/signature/Signatu
+ reVisitor.class
+SHA1-Digest: h1IiRE9u1qlCOilg3pr0hnNwUzg=
+
+Name: org/eclipse/persistence/internal/libraries/asm/tree/MethodNode$1
+ .class
+SHA1-Digest: eWFK/upm5CCk0P1Y4LfkGkUZknc=
+
+Name: org/eclipse/persistence/internal/libraries/asm/xml/SAXCodeAdapte
+ r.class
+SHA1-Digest: fNnYvrprvSVgT4EhsqEcNXDVAaU=
+
+Name: org/eclipse/persistence/internal/libraries/asm/util/ASMifierAnno
+ tationVisitor.class
+SHA1-Digest: 2zZ7Re3FkaPj6jivO5S/IQyNsfw=
+
+Name: org/eclipse/persistence/internal/libraries/asm/commons/Remapping
+ FieldAdapter.class
+SHA1-Digest: vXMljP256saSHEuZrVJ0ZDkrf1k=
+

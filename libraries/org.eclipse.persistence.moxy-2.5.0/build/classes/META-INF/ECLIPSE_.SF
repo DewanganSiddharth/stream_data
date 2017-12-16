@@ -1,0 +1,637 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: b/6ENdzh9FWQ6Wz09Tza+9wqOqA=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: LaPCAFpG1Evmy12wYq1otcO+rKs=
+
+Name: org/eclipse/persistence/jaxb/JAXBContextProperties.class
+SHA1-Digest: nLnjxYUm7Jr+Ts5kf/PV6iK/U6s=
+
+Name: org/eclipse/persistence/jaxb/TypeMappingInfo.class
+SHA1-Digest: nGi1zG4IqMJcqDAhLJJjN2/pZXA=
+
+Name: org/eclipse/persistence/jaxb/compiler/Property.class
+SHA1-Digest: gVXcQTVjkL7fYL+xM2niXtLsfQ0=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlTransformation$XmlWrite
+ Transformer.class
+SHA1-Digest: AU+9xzkdsYFM93ghlFoNUbhT0hs=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElementWrapper.class
+SHA1-Digest: SB00XXnClTaNyQtnJVNC8niorpI=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlSchemaType.class
+SHA1-Digest: Rule0+pxoaJ9VIMNVJdWboOEDZA=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlProperties$XmlProperty.
+ class
+SHA1-Digest: /0zgN52/6n1l5p8cXkZht0Pf9mA=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext$DynamicJ
+ AXBContextInput.class
+SHA1-Digest: kNREpZeLXgbnEPF56ijpm9otopk=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlJoinNodes.class
+SHA1-Digest: YKkhUU9f4Ti4r1r40LJce+OMY0U=
+
+Name: org/eclipse/persistence/internal/jaxb/many/CollectionValue.class
+SHA1-Digest: dTkeKExnAdOiheJYl1C4tzykiLU=
+
+Name: org/eclipse/persistence/jaxb/compiler/ElementDeclaration.class
+SHA1-Digest: 6HISCcu158FVEFTWWswPqH2eblU=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAccessType.class
+SHA1-Digest: rUfPcOjtSEhid6lpkMxRsi2yqec=
+
+Name: org/eclipse/persistence/jaxb/ObjectGraph.class
+SHA1-Digest: fNn74rqgEbcc0JFjE5N+AmPVibw=
+
+Name: org/eclipse/persistence/jaxb/JAXBValidator.class
+SHA1-Digest: atJNhFv5IJ5nJggLWEzsD1bYpak=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MapEntry.class
+SHA1-Digest: tgnbK5hfi8I0mzT8nmh7ezcFkhY=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNamedAttributeNode.clas
+ s
+SHA1-Digest: iDdIJswD30/H5dBv/5UCCB/Ow/s=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlBindings$XmlEnums.class
+SHA1-Digest: qzq+1ev59dO/iTFqOEPIvA6EpF0=
+
+Name: org/eclipse/persistence/jaxb/dynamic/metadata/OXMMetadata.class
+SHA1-Digest: zcl2kViyvGuXaVxPhYhgbyTWYn0=
+
+Name: org/eclipse/persistence/jaxb/compiler/PackageInfo.class
+SHA1-Digest: 8v+NWeWcPuRuD/yjQgEZ4PHwtiw=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlMap$Key.class
+SHA1-Digest: 1IAxJ7pyjdJPLbF3QfFhVLUidoM=
+
+Name: org/eclipse/persistence/jaxb/UnmarshallerProperties.class
+SHA1-Digest: HoB7BGiGEHVd4+VAOLdIgkn3SUY=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlBindings.class
+SHA1-Digest: urM4XK9r6srH5jc6GfQEnExDwGg=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaModel.class
+SHA1-Digest: lDzVKkk+tQdByYpkw96DeZscLWk=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlRootElement.class
+SHA1-Digest: sztZJv8nzoNboh5uEaFzRgrsAFw=
+
+Name: org/eclipse/persistence/jaxb/JAXBTypeElement.class
+SHA1-Digest: xIBvJs7QVa2tf8L1UmzXDrebmV4=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/ObjectFactory.class
+SHA1-Digest: kxI+raqMujxABltR42Tt0HF5gW4=
+
+Name: org/eclipse/persistence/jaxb/JAXBIntrospector.class
+SHA1-Digest: IfPNUt3hV3zP0ut2yTuhlLXtuGw=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlSchema$XmlNs.class
+SHA1-Digest: /vd1WHy2sKWihbzuIUHh+0baw8E=
+
+Name: org/eclipse/persistence/internal/jaxb/AttributeNodeImpl.class
+SHA1-Digest: 0JNuxbn5Wr7A7Njg+hvbvbcaZ/c=
+
+Name: org/eclipse/persistence/jaxb/compiler/CompilerHelper$2.class
+SHA1-Digest: BILS0eTxJ3ztrhxR2W2eokPlxiA=
+
+Name: org/eclipse/persistence/jaxb/compiler/MappingsGenerator$MapEntry
+ GeneratedKey.class
+SHA1-Digest: u/hAp/YlNpTXv4uPBYlc9W3TWbk=
+
+Name: org/eclipse/persistence/jaxb/javamodel/Helper.class
+SHA1-Digest: ymsNhDWDh15m3N1IrnVOLo4txn4=
+
+Name: org/eclipse/persistence/internal/jaxb/JAXBElementRootConverter.c
+ lass
+SHA1-Digest: WP8V3dFD6PC5r2LXVSTM/ZaADYM=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaClass.class
+SHA1-Digest: 5HeqmfK7K1Q2ZZ4i8OhYqYGB6YY=
+
+Name: org/eclipse/persistence/internal/jaxb/MultiArgInstantiationPolic
+ y.class
+SHA1-Digest: kat4RvxOZx25/p9GhSGPkAWdl6E=
+
+Name: org/eclipse/persistence/jaxb/compiler/NamespaceInfo.class
+SHA1-Digest: xjj1wRt1bmD1/3+7AE3w6bA+7HQ=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaAnnotation.class
+SHA1-Digest: ZjVl0JtdAAFxJFVWmbTz2MVtE7Q=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaField.class
+SHA1-Digest: G+W6RUS5fnEbUGhPr9m6As60Gd0=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlSchema.class
+SHA1-Digest: a0xIH/xtlvF6ztix6Vwat9VzX2o=
+
+Name: org/eclipse/persistence/jaxb/JAXBMarshalListener.class
+SHA1-Digest: LbmRJuV38DHcW0vtUnmfaj5DK10=
+
+Name: org/eclipse/persistence/jaxb/compiler/MappingsGenerator.class
+SHA1-Digest: WRslj2nngY+awXKa2L3VYnmG4QQ=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaMethodImpl.cla
+ ss
+SHA1-Digest: RE43fwS8D4GsKOExPqscCY+Jbwo=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlIsSetNullPolicy.class
+SHA1-Digest: a2KboiSnozo8PwIg98OOYguB7rw=
+
+Name: org/eclipse/persistence/internal/jaxb/XMLJavaTypeConverter.class
+SHA1-Digest: cKFQc3tv5RCeFdJVqHIyRTf9x2Q=
+
+Name: org/eclipse/persistence/jaxb/JAXBUnmarshalListener.class
+SHA1-Digest: 5GI5Gn5Vx9ZxfjZQmJA1fpUAn4Q=
+
+Name: org/eclipse/persistence/jaxb/compiler/SchemaGenerator.class
+SHA1-Digest: dwHJShA/0AbImlQcEtqgXrRZ9jM=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/JavaType.class
+SHA1-Digest: aiRXml3nCYLH0RJjgVfHjOU0aE0=
+
+Name: license.html
+SHA1-Digest: AVnETfICBddF58V0eXntFL+wC+g=
+
+Name: org/eclipse/persistence/jaxb/compiler/SchemaTypeInfo.class
+SHA1-Digest: GYP+lu07DdvL5YQvNGfUCs7InKo=
+
+Name: org/eclipse/persistence/jaxb/attachment/AttachmentMarshallerAdap
+ ter.class
+SHA1-Digest: KW8mWmjycqV97jsSvQi3aEPQI5M=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlSchemaTypes.class
+SHA1-Digest: Cw7i3taBywLXc0zAUfVJmd7sTNE=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAnyElement.class
+SHA1-Digest: 7uETvnu1Vol2xoqqTVyPCpjUc10=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext$SchemaCo
+ ntextInput.class
+SHA1-Digest: BHhwc5Pqb7FpJN6q7mozbE+I0HI=
+
+Name: org/eclipse/persistence/internal/jaxb/SessionEventListener.class
+SHA1-Digest: GiOoSaFbnSx8qnnv1zjqWe8Zj4A=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$ContextPathInput.class
+SHA1-Digest: EmctEqBF7z982D4+n3KehaxPkgM=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAttribute.class
+SHA1-Digest: V4o2p47v8qa3xWJYStuvINKXMhA=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlMap.class
+SHA1-Digest: Mpjozr6rcOvMjBjccGFmj3KpQ8M=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElementRefs.class
+SHA1-Digest: /YZ4fxYMmhur3vJhZPCAGQw0VQ0=
+
+Name: org/eclipse/persistence/internal/jaxb/DomHandlerConverter.class
+SHA1-Digest: sioQYLBbcLrrSZPN/pmnXs7fcKg=
+
+Name: org/eclipse/persistence/jaxb/compiler/MappingsGenerator$NullInst
+ antiationPolicy.class
+SHA1-Digest: Rrg/QSAEYj+0ae1yLlwxph8LABs=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$JAXBContextInput.class
+SHA1-Digest: 413QzgLKPvd0Z4MTtOrtHWNKwVA=
+
+Name: org/eclipse/persistence/jaxb/compiler/MarshalCallback.class
+SHA1-Digest: 4JGhO/wQh3wSQZg1beLXD4Hvu5Y=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlType.class
+SHA1-Digest: Lp9l91BBkQmOinqr5LqgW8lRHXg=
+
+Name: org/eclipse/persistence/jaxb/metadata/MetadataSource.class
+SHA1-Digest: h/53r41D0MkvBOzhkd7PTMIMzyU=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaAnnotation
+ Impl.class
+SHA1-Digest: tR9uyyKm0/w11RoBZnwPU7MafJs=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNamedSubgraph.class
+SHA1-Digest: 7TVCw24N9k/XdEndWFJERplaGzc=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaClassImpl.
+ class
+SHA1-Digest: aUb8szOikWD7G3l0L4up/FEOI9c=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaFieldImpl.
+ class
+SHA1-Digest: S0dBA497LNAcSrVSdSr+830Zdws=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAccessMethods.class
+SHA1-Digest: CKqiC5AlA4rLDyS++LJJ7bKKc4Q=
+
+Name: org/eclipse/persistence/jaxb/JAXBUnmarshallerHandler.class
+SHA1-Digest: AoekHfAEqP20v0qDEI3LD3NEekM=
+
+Name: org/eclipse/persistence/jaxb/JAXBTypesafeEnumConverter.class
+SHA1-Digest: HKMgn4kCaOkk7OlbAR8ZaSz3/v8=
+
+Name: org/eclipse/persistence/jaxb/compiler/Generator.class
+SHA1-Digest: 7jxywVYImFtNWY7zyZw5mKnBomo=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlJavaTypeAdapter.class
+SHA1-Digest: 6+IRMEfjKSwfzpCWJ2fBnsvNUXo=
+
+Name: org/eclipse/persistence/internal/jaxb/AccessorFactoryWrapper.cla
+ ss
+SHA1-Digest: dpk/jDTp48X72h1WaUn78Q6Ta4c=
+
+Name: org/eclipse/persistence/internal/jaxb/IDResolverWrapper.class
+SHA1-Digest: 6ENGP7eoJtlEyrhxM/R3JFMFNQU=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaPackageImp
+ l.class
+SHA1-Digest: csvzjboqSOQT2MRvDKh++FxlLkI=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElement.class
+SHA1-Digest: s5soxpnUBhYpwWmX//vTIOkZAWA=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaHasAnnotations.class
+SHA1-Digest: lyc5z0XVvxu5kr3k9TAqVXYOl4g=
+
+Name: org/eclipse/persistence/jaxb/compiler/XMLProcessor.class
+SHA1-Digest: k+LV5LN+PcOv1DldQT1hC3Virq8=
+
+Name: org/eclipse/persistence/jaxb/JAXBUnmarshaller.class
+SHA1-Digest: B2fGsRSH3d4qA0qBWSR71kIw0Ik=
+
+Name: about.html
+SHA1-Digest: qDgMW/BLdJfYUsi9ztPtXkIODWs=
+
+Name: org/eclipse/persistence/internal/jaxb/JAXBElementConverter.class
+SHA1-Digest: N+qvngar+xvwcNDCWOAb8/AJl2A=
+
+Name: org/eclipse/persistence/jaxb/TypeMappingInfo$ElementScope.class
+SHA1-Digest: HDiylgcp5FLXIX2sIlat4V00pXE=
+
+Name: org/eclipse/persistence/jaxb/JAXBContextFactory.class
+SHA1-Digest: 9c+BtFU7ye+28DQmbxyANhfHZwk=
+
+Name: org/eclipse/persistence/internal/jaxb/many/ArrayValue.class
+SHA1-Digest: nxMf6+9RiliFh6AAEQkUxrzqNio=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaModelInputImpl
+ .class
+SHA1-Digest: YCoy24a1ZmhayDAHdPCKuLwdwPs=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$TypeMappingInfoInput.cl
+ ass
+SHA1-Digest: JaPJI8vbYkds4pVJqIux2PrDjwE=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext.class
+SHA1-Digest: 0mPQodjD/7di14+UaRyBJGHZC5M=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaClassImpl.clas
+ s
+SHA1-Digest: Q8j7zVMHI6DtPHw1arlD1JELXag=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlRegistry$XmlElementDecl
+ .class
+SHA1-Digest: 1ZOezsWzqrdkqmNSxwZ3YesuhhY=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaFieldImpl.clas
+ s
+SHA1-Digest: NQk/jJiR58Szx9D9jIfgW4cRyNk=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaConstructorImp
+ l.class
+SHA1-Digest: sGCTb6780Gd25UdrvW/tPqnqU1E=
+
+Name: org/eclipse/persistence/jaxb/dynamic/metadata/Metadata.class
+SHA1-Digest: dxF07M7VKIFGiSRa40zwIueN9t0=
+
+Name: org/eclipse/persistence/jaxb/eclipselink_oxm_2_5.xsd
+SHA1-Digest: bNk/xi8MGpaGN0aU7Pyk4T6RdIs=
+
+Name: org/eclipse/persistence/jaxb/JAXBBinder.class
+SHA1-Digest: E8XJdBcEyknfrNziMG38YQW8UsU=
+
+Name: org/eclipse/persistence/jaxb/attachment/AttachmentUnmarshallerAd
+ apter.class
+SHA1-Digest: 7HYwl6ThlH1ARVqg+lMMMYdDybI=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$RootLevelXmlAdapter.cla
+ ss
+SHA1-Digest: sbsxm/6si1ahd3LAqVXpKupkn2k=
+
+Name: org/eclipse/persistence/jaxb/JAXBEnumTypeConverter.class
+SHA1-Digest: Htic8e4R8mj/0TxGsgHNy5kM3rg=
+
+Name: org/eclipse/persistence/jaxb/MarshallerProperties.class
+SHA1-Digest: LYfFZvKm4sUKhbgS7lpVYmOzLr8=
+
+Name: org/eclipse/persistence/jaxb/JAXBHelper.class
+SHA1-Digest: h97FRtZfF5vu/tlj79/rnUCwLUg=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElementRef.class
+SHA1-Digest: nRwhiRzF/UapRYbj2P5za8QDqfk=
+
+Name: org/eclipse/persistence/jaxb/rs/MOXyJsonProvider.class
+SHA1-Digest: M0Y/SZlk/QZrVCJcEdtxg6Xs/7g=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlJoinNodes$XmlJoinNode.c
+ lass
+SHA1-Digest: P29ojnLHBWnuuyPzsdK2R/i0MlA=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlRegistry.class
+SHA1-Digest: pw8ula5N0MoKlHCijCg4Ui+bs9I=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlTransformation$XmlReadT
+ ransformer.class
+SHA1-Digest: FFkX4/IopRLa8SIWAOIh63lFLNk=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/jaxb.properties
+SHA1-Digest: ar6lG69naOe9j27+/YfOl84j9jQ=
+
+Name: org/eclipse/persistence/jaxb/compiler/UnmarshalCallback.class
+SHA1-Digest: GRS57EphvqujDg1rMSZsX13dq58=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMObjectFactoryImpl.
+ class
+SHA1-Digest: 0RE0bmDq1DD7LrUtwqImII8WcdI=
+
+Name: org/eclipse/persistence/internal/jaxb/DefaultElementConverter.cl
+ ass
+SHA1-Digest: jCD8PXKbrI7Yxk5Y3F946fY/dB4=
+
+Name: org/eclipse/persistence/jaxb/JAXBUnmarshaller$PrimitiveArrayCont
+ entHandler.class
+SHA1-Digest: EYqNkOPODx+QtfSnSLNVazzBPA4=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaConstructo
+ rImpl.class
+SHA1-Digest: L5DwSF+dqf4G/qtrTzmUj4ZpVwg=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext$DynamicJ
+ AXBContextState.class
+SHA1-Digest: dMLHiGUnMIW/ksH6eli+DK6j5qM=
+
+Name: org/eclipse/persistence/internal/jaxb/JAXBSchemaOutputResolver.c
+ lass
+SHA1-Digest: X0tnrNedzfl+Ukt/OWge91h1wng=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlIsSetNullPolicy$IsSetPa
+ rameter.class
+SHA1-Digest: BAkiDxTrYs+cJuzlsOCojmJdflY=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlEnumValue.class
+SHA1-Digest: iZqKG8pe4aWlXBHpxpsqy2VZX0o=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlMarshalNullRepresentati
+ on.class
+SHA1-Digest: zca5eRxtbcsG8Iz7kG/+qHCeP4c=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlTransformation.class
+SHA1-Digest: V8mD/w5tMt1PZSBmCrdQhy2dg9k=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/AnnotationHelp
+ er.class
+SHA1-Digest: rlXyoeBpolvo5U58F01Hid0EvjU=
+
+Name: org/eclipse/persistence/jaxb/compiler/CompilerHelper.class
+SHA1-Digest: JAAFsdUj6iomrouw1R96F1SrGos=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAnyAttribute.class
+SHA1-Digest: 51zh3grdEq8UXefzgFLsCHGU0Gk=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaModelInput.class
+SHA1-Digest: cchXkgC45F6DAapaFj2wsSR8Gh8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: QdryQvJlVywlE0MGLuwYCkmkyWk=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext$Sessions
+ XmlContextInput.class
+SHA1-Digest: bj14oWUYT2GhEKPrLuuMnqWgm+Y=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MapValueAttributeAcce
+ ssor.class
+SHA1-Digest: mOk494tjiPLxUnDV5EZHjNml8+c=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNullPolicy.class
+SHA1-Digest: OrR4Ne1SR6d4qr8IFxumUZBjx3k=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlBindings$XmlRegistries.
+ class
+SHA1-Digest: XSqwXH5DgyDiUDq4S0WZ2thiOBU=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MultiDimensionalArray
+ Value.class
+SHA1-Digest: osfKdH2/gSJrpdX/So6gWP6B+ys=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext.class
+SHA1-Digest: ZwZ+X+HLM6P3MRSjwyitehMxIUg=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlJavaTypeAdapters.class
+SHA1-Digest: B568qDAaJvT9D/f+P8xX56yU1Cs=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAccessOrder.class
+SHA1-Digest: h6lf13RXl7RNL7+hmslj3Lz5lFI=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlTransient.class
+SHA1-Digest: zIGl857H8rrQxUhzbeVDpjiIY9M=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/package-info.class
+SHA1-Digest: AH88RI0hmC6yZ9msiCOZlqMEKm0=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlVirtualAccessMethods.cl
+ ass
+SHA1-Digest: SgvUgmzCGpJXYXqgalC8osdhqFc=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/JavaAttribute.class
+SHA1-Digest: CqnNF4ZyWrSzgQxlbEqOz1W70nA=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlVirtualAccessMethodsSch
+ ema.class
+SHA1-Digest: YctTn71vdovNBVe7uSlDTW4/4BI=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MultiDimensionalManyV
+ alue.class
+SHA1-Digest: MTlxRh2eIYabzrtM0st8Vl0sl2o=
+
+Name: org/eclipse/persistence/internal/jaxb/WrappedValue.class
+SHA1-Digest: Ix/NE0M6Mnz2rckx679qQg20oPs=
+
+Name: org/eclipse/persistence/jaxb/metadata/XMLMetadataSource.class
+SHA1-Digest: hYvSWvDEB+q/hP/BRpGurZfLKjo=
+
+Name: org/eclipse/persistence/jaxb/javamodel/AnnotationProxy.class
+SHA1-Digest: LZ6gIca3V13XmQDC4WBT3lonr0I=
+
+Name: org/eclipse/persistence/internal/jaxb/CustomAccessorAttributeAcc
+ essor.class
+SHA1-Digest: k5/284fdt4duQA/uD4y5mHIsJtY=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNsForm.class
+SHA1-Digest: pFvfjMNWptHsiXlGlFcbg3NFfM8=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/JavaType$JavaAttributes.cl
+ ass
+SHA1-Digest: Waev2AHdJUPoF7DiXQ8bSrfyaBs=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$1.class
+SHA1-Digest: A+fvO9CfpP/nBqj50BLI3e3tj8w=
+
+Name: org/eclipse/persistence/internal/jaxb/ObjectGraphImpl.class
+SHA1-Digest: i36yqS6yv5Aldkft5qo9giVYZ6M=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaPackage.class
+SHA1-Digest: hV8/KFTwmwIgt5u41BbfanFnhBc=
+
+Name: org/eclipse/persistence/jaxb/compiler/AnnotationsProcessor.class
+SHA1-Digest: LrWJBfQHDstZf73Aau+cXmpOhWQ=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaModelInput
+ Impl.class
+SHA1-Digest: A1/P3lR6dwtZ+6XlpTMvUzWPysM=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJAXBElementImpl.cl
+ ass
+SHA1-Digest: PSpPc4UaJv2JDJ83T9gCY/tU7GQ=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaModelImpl.
+ class
+SHA1-Digest: KfOd99bVKNgSL4N4bEL4a8n562Q=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNamedObjectGraphs.class
+SHA1-Digest: mBQWLpe/eMTsekD6z4Y6fHLnARg=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlProperties.class
+SHA1-Digest: 5bO2pa49WXbRKaryME3iSp5wYb0=
+
+Name: org/eclipse/persistence/jaxb/Subgraph.class
+SHA1-Digest: npqKhBkTgXZPJXyXfZu2gQbLt3g=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElements.class
+SHA1-Digest: /lA6HZMCddGb0xq7hJiwYEICrP4=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaPackageImpl.cl
+ ass
+SHA1-Digest: yvtewow2LbNi5xRF0u7eq/HDCDg=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlInverseReference.class
+SHA1-Digest: uXzKizQyaIViPWGMp7p9k8pqkqY=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContextFactory.c
+ lass
+SHA1-Digest: 5rKkfp2pSlc0WgBtBBZTW7ugnOg=
+
+Name: org/eclipse/persistence/internal/jaxb/JAXBSetMethodAttributeAcce
+ ssor.class
+SHA1-Digest: B+VSqQemh2l8MHL10S/3qyzQyis=
+
+Name: org/eclipse/persistence/jaxb/dynamic/DynamicJAXBContext$Metadata
+ ContextInput.class
+SHA1-Digest: zPldOs6HUl3BYo4X04j8Be00wZQ=
+
+Name: org/eclipse/persistence/jaxb/JAXBContext$JAXBContextState.class
+SHA1-Digest: ILk7HgJ3kP2CXJV92y9o43HnO5w=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlElement$XmlInverseRefer
+ ence.class
+SHA1-Digest: Ok+432CykIlX54RaHSlV1Q2KdUc=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlBindings$JavaTypes.clas
+ s
+SHA1-Digest: aKBmO6q6KWkwnxM3NNMsm4Hjvq8=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlEnum.class
+SHA1-Digest: 58w+pbZQfYEHDWyYaOxqItpEGZo=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MapValue.class
+SHA1-Digest: 9AowpQhDSpUsaRRUteqA46vMhI0=
+
+Name: org/eclipse/persistence/jaxb/JAXBMarshaller.class
+SHA1-Digest: q13OnNHyrG1oHxI33TWOUx+R1Q8=
+
+Name: org/eclipse/persistence/internal/jaxb/many/MultiDimensionalColle
+ ctionValue.class
+SHA1-Digest: d7xc2dk/Y7Aa+9p29Nl2aRzs3eg=
+
+Name: org/eclipse/persistence/jaxb/IDResolver.class
+SHA1-Digest: xRF3z/pUm7FONFb25i8AQD1He7M=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlValue.class
+SHA1-Digest: M2vllHifISIs1hyHXJftgO7wsHg=
+
+Name: org/eclipse/persistence/jaxb/DefaultXMLNameTransformer.class
+SHA1-Digest: FJa4wb5pE4AjuTdEnA85amz3ogc=
+
+Name: org/eclipse/persistence/jaxb/compiler/EnumTypeInfo.class
+SHA1-Digest: qLN+NubWKI8wbyQ9n2xjAHn+BFE=
+
+Name: org/eclipse/persistence/jaxb/metadata/MetadataSourceAdapter.clas
+ s
+SHA1-Digest: chZdfDdTYUVpgcp8KaldrsFRc0c=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlClassExtractor.class
+SHA1-Digest: 8gO/iaSItDOr5aDEm+mkm0Axsqc=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaMethod.class
+SHA1-Digest: NrDWr/ucx53oBhra+Y1KTekTTGs=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlNamedObjectGraph.class
+SHA1-Digest: 7nMCvJL9MApxp/wySOyVYY/1CWM=
+
+Name: org/eclipse/persistence/internal/jaxb/many/JAXBArrayAttributeAcc
+ essor.class
+SHA1-Digest: MkdhKZsyxgcliNS7ogYaL7GU6Xk=
+
+Name: org/eclipse/persistence/jaxb/compiler/CompilerHelper$1.class
+SHA1-Digest: 3SV9G4sbSYpTbMru954CXyFPrHM=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlAbstractNullPolicy.clas
+ s
+SHA1-Digest: rCfTjZSJYjdbpNTv4zPvr2DMyJE=
+
+Name: org/eclipse/persistence/jaxb/javamodel/oxm/OXMJavaModelImpl.clas
+ s
+SHA1-Digest: S9AoMQ2KXnJzD2XdbcN9kTjHW+A=
+
+Name: org/eclipse/persistence/internal/jaxb/many/ManyValue.class
+SHA1-Digest: WnhM9rB42hKMVGQcc5eK0eOJ0Bs=
+
+Name: readme.html
+SHA1-Digest: 2Wl/n95dbnPU7ecEF+hLVs676iE=
+
+Name: org/eclipse/persistence/jaxb/compiler/SchemaGenerator$AddToSchem
+ aResult.class
+SHA1-Digest: 3DsVR/HLk2HdVVR16IY/wEv4n0s=
+
+Name: org/eclipse/persistence/jaxb/xmlmodel/XmlMap$Value.class
+SHA1-Digest: l6hndpY0ci/4Hx+PuXnTLSoPZnA=
+
+Name: org/eclipse/persistence/jaxb/compiler/JAXBMetadataLogger.class
+SHA1-Digest: +WtUIzRVfpdmt+xukSFJs1TGANo=
+
+Name: org/eclipse/persistence/jaxb/javamodel/JavaConstructor.class
+SHA1-Digest: HhB/1Wn+dbdGzbgZlzMq733A64o=
+
+Name: org/eclipse/persistence/internal/jaxb/JaxbClassLoader.class
+SHA1-Digest: VDQ5C8EObALtv0t7KAHvFNKDk7U=
+
+Name: org/eclipse/persistence/jaxb/compiler/TypeInfo.class
+SHA1-Digest: j8qmEsHStme9N9JGgXcW5wWXNbI=
+
+Name: org/eclipse/persistence/jaxb/JAXBErrorHandler.class
+SHA1-Digest: 9aGa4bpK63/wDQyT4bf7ybnPwVo=
+
+Name: org/eclipse/persistence/jaxb/AttributeNode.class
+SHA1-Digest: LWJGYDZcy1sbwj586E5n4QTMoko=
+
+Name: org/eclipse/persistence/jaxb/JAXBUnmarshaller$PrimitiveContentHa
+ ndler.class
+SHA1-Digest: HSry9bDfsoNZ2wdIP91rdBGKc6M=
+
+Name: org/eclipse/persistence/jaxb/compiler/AnnotationsProcessor$Prope
+ rtyComparitor.class
+SHA1-Digest: 90CHAPgp3p/k/a32xrzr7i6hHZM=
+
+Name: org/eclipse/persistence/jaxb/javamodel/reflection/JavaMethodImpl
+ .class
+SHA1-Digest: BdqhP77+z4NnsksouZ0jXUP4SoA=
+

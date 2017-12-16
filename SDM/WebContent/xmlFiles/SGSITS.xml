@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<stream>
+	<attribute>temperature</attribute>
+	<attribute>humidity</attribute>
+	<attribute>Precipitation</attribute>
+</stream>

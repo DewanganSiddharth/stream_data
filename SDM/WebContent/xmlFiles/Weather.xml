@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stream>
+<attribute>temperature</attribute>
+	<attribute>humidity</attribute>
+	<attribute>co2</attribute>
+	<attribute>windspeed</attribute>
+		<attribute>precipitation</attribute>
+		<attribute>rain</attribute>
+	
+</stream>

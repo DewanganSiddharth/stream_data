@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>WebSocket Client</title>
+<script src="js/googleapi.js"></script>
+<script src="js/maxcdn.js"></script>
+
+<link href="css1/bootstrap.min.css" rel="stylesheet">
+<link href="css1/logo-nav.css" rel="stylesheet">
+<link href="css1/home-css.css" rel="stylesheet">
+<link href="css/maxcdn_css.css" rel="stylesheet">
+<title>Result</title>
+
+<script type="text/javascript">
+	//var wsocket;
+	$(document).ready(function () {
+	alert("hellos");
+	//window.onload = init;
+	var wsocket = new WebSocket("ws://localhost:8080/SDM/rateserv");
+	wsocket.onmessage = onMessage;
+	function onMessage(evt) {
+		var obj = JSON.parse(evt.data);
+		console.log(obj);
+		var s = '';
+		// if(min==1)
+		s = s + 'min : ' + obj.min + '<br>';
+		//if(max==1)
+		s = s + 'max : ' + obj.max + '<br>';
+		// 	if(avg==1)
+		s = s + 'avg : ' + obj.avg + '<br>';
+		// 	if(sum==1)
+		s = s + 'sum : ' + obj.sum + '<br>';
+
+		var str = '<div>' + s + '</div><br>';
+		console.log(str);
+		$('#output').append(str);
+		// window.addEventListener("load", connect, false);
+	};
+	});
+</script>
+</head>
+<body>
+
+	<div class="col-md-8">
+		<div class="panel panel-default" style="margin-top: -10%">
+			<div class="panel-heading" style="background-color: #ffffff;">
+				<span> <b>Output of query:</b><br>
+					<button type="button" class="btn btn-primary"
+						style="float: right; margin-top: -5%" id="stop-output">Stop
+						Output</button>
+				</span>
+			</div>
+			<div class="panel-body" id="output"></div>
+		</div>
+
+	</div>
+</body>
+</html>

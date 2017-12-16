@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<script src="js/jquery-3.1.1.js"></script>
+
+<link href="css1/bootstrap.min.css" rel="stylesheet">
+<link href="css1/logo-nav.css" rel="stylesheet">
+<link href="css1/home-css.css" rel="stylesheet">
+<title>SDM-Query</title>
+</head>
+<body style="overflow-x: hidden">
+	<div class="row">
+
+		<div class="navbar" style="position: fixed; width: 100%">
+			<h1 style="text-align: center;">Welcome to Stream Data
+				Management</h1>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="col-md-2">
+			<h5 id="stream-info" style="margin-left: 20px; margin-top: -90px;font-size:13px"></h5>
+			<h4 id="stream-name" style="margin-left: 20px; margin-top: -90px;"></h4>
+
+		</div>
+		<div class="col-md-1"></div>
+
+		<div class="col-md-5">
+
+			<form method="post">
+				<div class="form-group">
+					<label for="stream-select">Select Operation to get Output:</label>
+					<select class="form-control" id="select-operation">
+						<option value="select">Select</option>
+						<option value="min">Minimum</option>
+						<option value="max">Maximum</option>
+						<option value="avg">Average</option>
+						<option value="sum">Sum</option>
+						<option value="mm">Maximum & Minimum</option>
+						<option value="sa">Sum & Average</option>
+						<option value="all">All</option>
+
+					</select>
+				</div>
+
+
+			</form>
+		</div>
+		<div class="col-md-1">
+			<button type="button" class="btn btn-primary" id="go-back"
+				style="margin-top:25px;margin-left:100px">Go Back</button>
+
+		</div>
+
+
+
+	</div>
+	<br>
+	<br>
+	<br>
+	<div class="row">
+		<div class="container" id="output-panels"></div>
+	</div>
+
+
+</body>
+<script>
+	var min, max, avg, sum, s = '';
+
+	$(window)
+			.on(
+					"load",
+					function() {
+						$('#stream-info').html(
+								"<b>Stream_ID : "
+										+ localStorage.getItem("stream_id")
+										+ "</b>"+"<br><span><span><b>Stream_Name : </span><span>"
+										+ localStorage.getItem("stream_name")
+										+ "</b></span></span>");
+						
+						var attr = localStorage.getItem("attr_string");
+						var a = attr.split(":");
+						for (i = 0; i < a.length; i++) {
+							s = s
+									+ '<div class="col-md-5"><div class="panel panel-default">'
+									+ '<div class="panel-heading" style="background-color: #ffffff;">'
+									+ '<span> <b>Output of query: &nbsp&nbsp'
+									+ a[i]
+									+ '</b></span></div><div class="panel-body"  style="overflow-y:scroll;height:300px" id="output'+a[i]+'"></div><div class="panel-footer"></div></div></div>';
+						}
+						$('#output-panels').html(s);
+
+					});
+
+ 	  	setInterval(function(){getResult();}, 1000);
+ 	 function getResult() {
+		var t = $('#select-operation').val();
+		console.log();
+		if (t == "min")
+			min = 1;
+		else
+			min = 0;
+		if (t == "max")
+			max = 1;
+		else
+			max = 0;
+		if (t == "avg")
+			avg = 1;
+		else
+			avg = 0;
+		if (t == "sum")
+			sum = 1;
+		else
+			sum = 0;
+		if (t == "all") {
+			min = 1;
+			max = 1;
+			avg = 1;
+			sum = 1;
+		}
+		if (t == "mm") {
+			min = 1;
+			max = 1;
+			avg = 0;
+			sum = 0;
+		}
+
+		if (t == "sa") {
+			min = 0;
+			max = 0;
+			avg = 1;
+			sum = 1;
+		}
+		console.log(formToJSON());
+		rootURL = "/SDM/webapi/SDM/computeResult";
+		console.log(rootURL);
+
+		var idd = localStorage.getItem("stream_id");
+		var attr_string = localStorage.getItem("attr_string");
+		rootURL = "/SDM/webapi/SDM/getResult/" + idd + "/" + max + "/" + min
+				+ "/" + avg + "/" + sum + "/" + attr_string;
+		console.log(rootURL);
+		$.ajax({
+			type : 'GET',
+			url : rootURL,
+			async : true,
+			beforeSend : function(xhr) {
+				if (xhr && xhr.overrideMimeType) {
+					xhr.overrideMimeType('application/json;charset=utf-8');
+				}
+			},
+			dataType : 'json',
+			success : function(obj) {
+				console.log(obj);
+				for (j = 0; j < obj.length; j++) {
+					var i = 0;
+					var s = '';
+					var s1;
+					if (obj.length == 0)
+						s1 = '<div><h4>Attribute :&nbspNot Chosen</h4></div>';
+					else
+						s1 = '';
+					while (i < obj[j].rlist.length) {
+
+						if (min == 1)
+							s = s + '<b>min</b> : ' + obj[j].rlist[i].min
+									+ '&nbsp&nbsp';
+						if (max == 1)
+							s = s + '<b>max</b> : ' + obj[j].rlist[i].max
+									+ '&nbsp&nbsp';
+						if (avg == 1)
+							s = s + '<b>avg</b> : ' + obj[j].rlist[i].avg
+									+ '&nbsp&nbsp';
+						if (sum == 1)
+							s = s + '<b>sum</b> : ' + obj[j].rlist[i].sum
+									+ '&nbsp&nbsp';
+						i++;
+						s = s + '<br>';
+					}
+					var str = s1 + '<div>' + s + '</div><br>';
+					$('#output' + obj[j].attribute).html(str);
+				}
+			},
+			error : function(textStatus, errorThrown) {
+				console.log(textStatus.overrideMimeType);
+			}
+		});
+		localStorage.setItem("load", 1);
+	}
+
+	function formToJSON() {
+		return JSON.stringify({
+			"stream_id" : localStorage.getItem("stream_id"),
+			"min" : min,
+			"max" : max,
+			"avg" : avg,
+			"sum" : sum,
+			"attribute" : $('#select-attribute').val()
+		});
+	}
+
+	$('#go-back').on("click", function() {
+
+		window.location = "streams.html";
+	});
+
+	/* $(window)
+			.on(
+					"load",
+					function() {
+
+
+						$('#heading').html(
+								"&nbsp &nbsp &nbsp Operations on stream "
+										+ localStorage.getItem("stream_name")
+										+ " having id "
+										+ localStorage.getItem("stream_id"));
+
+						rootURL = "/SDM/webapi/SDM/getAttributes/"
+								+ localStorage.getItem("stream_id");
+						$
+								.ajax({
+									type : 'GET',
+									url : rootURL,
+									async : true,
+									beforeSend : function(xhr) {
+										if (xhr && xhr.overrideMimeType) {
+											xhr
+													.overrideMimeType('application/json;charset=utf-8');
+										}
+									},
+									dataType : 'json',
+									success : function(obj) {
+										var str = '<option>Select</option>';
+										if (obj.temperature - 1 >= 0)
+											str += '<option value="temperature">Temperature</option>';
+										if (obj.humidity - 1 >= 0)
+											str += '<option value="humidity">Humidity</option>';
+										if (obj.co2 - 1 >= 0)
+											str += '<option value="co2">Co2 Content</option>';
+										if (obj.windspeed - 1 >= 0)
+											str += '<option value="windspeed">Wind Speed</option>';
+										$('#select-attribute').html(str);
+
+									}
+								});
+
+					});
+	 */
+</script>
+</html>
